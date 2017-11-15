@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mackenzie Kern
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We had to edit the code to make it so that when you clicked on the ingredients and instructions buttons, the ingredients and instructions showed up. 
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Sometimes if you copy and paste, quotation marks will turn into double apostrophes. 
+2. You can attach functions to a certain header
+3. If you don't place everything in the right brackets, it won't work. 
 
